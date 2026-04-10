@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "1775854331095",
+      "username": "re",
+      "password": "$2b$10$QNUJ7F4uC3F6DkmCbxLF8O8xRxfiZB.zWXeeR9uyx9374TtVoBnju",
+      "createdAt": "2026-04-10T20:52:11.095Z"
+    }
+  ],
+  "messages": [
+    {
+      "id": "1775854346303",
+      "senderId": "1775854331095",
+      "recipientId": null,
+      "content": "choco install ffmpeg",
+      "createdAt": "2026-04-10T20:52:26.303Z"
+    }
+  ],
+  "notes": []
+}
